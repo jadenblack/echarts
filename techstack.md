@@ -50,7 +50,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [jadenblack/echarts](https://github.com/jadenblack/echarts)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|43<br/>Tools used|12/14/23 <br/>Report generated|
+|45<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -242,9 +242,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (23)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (25)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (23)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (25)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -255,11 +255,13 @@ Full tech stack [here](/techstack.md)
 |[@types/jest](https://www.npmjs.com/@types/jest)|v26.0.15|04/20/23|plainheart |MIT|N/A|
 |[@typescript-eslint/eslint-plugin](https://www.npmjs.com/@typescript-eslint/eslint-plugin)|v4.33.0|05/14/23|plainheart |MIT|N/A|
 |[@typescript-eslint/parser](https://www.npmjs.com/@typescript-eslint/parser)|v4.33.0|05/14/23|plainheart |BSD-2-Clause|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v2.4.2|02/15/20|100pah |MIT|N/A|
 |[commander](https://www.npmjs.com/commander)|v2.11.0|07/13/23|50 |MIT|N/A|
 |[dtslint](https://www.npmjs.com/dtslint)|v4.2.1|05/14/23|plainheart |MIT|N/A|
 |[fs-extra](https://www.npmjs.com/fs-extra)|v8.1.0|09/22/22|dependabot[bot] |MIT|N/A|
 |[glob](https://www.npmjs.com/glob)|v7.1.6|06/07/23|plainheart |ISC|N/A|
 |[globby](https://www.npmjs.com/globby)|v11.1.0|02/15/20|100pah |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v8.0.3|06/07/23|plainheart |MIT|N/A|
 |[magic-string](https://www.npmjs.com/magic-string)|v0.25.7|01/05/21|pissang |MIT|N/A|
 |[open](https://www.npmjs.com/open)|v6.4.0|09/11/19|pissang |MIT|N/A|
 |[pixelmatch](https://www.npmjs.com/pixelmatch)|v5.0.2|06/07/23|plainheart |ISC|N/A|
